@@ -2,11 +2,7 @@
 
 int main(){
 	
-	printf("Hello World!\n");
-
-	printf("Good Bye!\n");
-
-	printf("Hello World!\n");
+	printf("Hello Git!\n");
 
 	return 0;
 }
